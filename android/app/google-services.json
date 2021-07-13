@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674604715005",
+    "project_id": "foodtruck-qa-aad2b",
+    "storage_bucket": "foodtruck-qa-aad2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674604715005:android:15a41ef28759798863a794",
+        "android_client_info": {
+          "package_name": "com.vender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674604715005-03d6i66vn38m6npbp37vqf8420nn9cpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfrStQ8rs5Q1nJd5S48Mu-nWXq86n25Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674604715005-03d6i66vn38m6npbp37vqf8420nn9cpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
