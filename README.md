@@ -1,2 +1,4 @@
-yarn install
-npm run android
+```yarn install```
+
+````npm run android````
+ 
