@@ -39,6 +39,7 @@ public class ForegroundService extends Service {
                 .setContentTitle("Foreground Service Channel")
                 .setContentText(input)
                 .setContentIntent(pendingIntent)
+                .setPriority(NotificationCompat.PRIORITY_HIGH)
                 .build();
 
         startForeground(1, notification);
