@@ -40,7 +40,7 @@ const App = () => {
 
               axios
                 .put(
-                  'https://restaurant-portal.foodtruck-uat.com/cloud-message/replace',
+                  'https://restaurant-portal.foodtruck-qa.com/cloud-message/replace',
                   {new_message_token: token},
                 )
                 .catch(err => {
