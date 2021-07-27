@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "978731893049",
-    "project_id": "foodtruck-qav2",
-    "storage_bucket": "foodtruck-qav2.appspot.com"
+    "project_number": "674604715005",
+    "project_id": "foodtruck-qa-aad2b",
+    "storage_bucket": "foodtruck-qa-aad2b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:978731893049:android:8841bd67974f86120628e8",
+        "mobilesdk_app_id": "1:674604715005:android:4464f9d96669d7e863a794",
         "android_client_info": {
           "package_name": "com.vender"
         }
       },
       "oauth_client": [
         {
-          "client_id": "978731893049-9o4292b3l11879u38md054rcsiacqt54.apps.googleusercontent.com",
+          "client_id": "674604715005-03d6i66vn38m6npbp37vqf8420nn9cpm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCuX3OlqiKCNhul3f-9C_fecQ-kJtD0e24"
+          "current_key": "AIzaSyDNfrStQ8rs5Q1nJd5S48Mu-nWXq86n25Y"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "978731893049-9o4292b3l11879u38md054rcsiacqt54.apps.googleusercontent.com",
+              "client_id": "674604715005-03d6i66vn38m6npbp37vqf8420nn9cpm.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
